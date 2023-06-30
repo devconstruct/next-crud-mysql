@@ -1,6 +1,8 @@
 function NewPage() {
   return (
-    <div>new</div>
+    <h1 className="text-3xl font-bold underline shadow border rounded py-2 px-3 text-gray-700">
+      NEW
+    </h1>
   )
 }
 
